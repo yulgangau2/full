@@ -7,6 +7,8 @@
         Logout
     </a>
 
+    git
+
 <h1>subjec List</h1>
 <div id="x">
     <h1>@{{ text  }}</h1>
